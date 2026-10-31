@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\ASP.NET\\28092025- doanphuocmien\\website linh kiện điện tử\\1\\ElectronicsStore\\ElectronicsStore.csproj": {}
+    "C:\\Users\\pc win 10\\Documents\\GitHub\\dinht060579-linhkiendientu\\ElectronicsStore.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\ASP.NET\\28092025- doanphuocmien\\website linh kiện điện tử\\1\\ElectronicsStore\\ElectronicsStore.csproj": {
+    "C:\\Users\\pc win 10\\Documents\\GitHub\\dinht060579-linhkiendientu\\ElectronicsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\ASP.NET\\28092025- doanphuocmien\\website linh kiện điện tử\\1\\ElectronicsStore\\ElectronicsStore.csproj",
+        "projectUniqueName": "C:\\Users\\pc win 10\\Documents\\GitHub\\dinht060579-linhkiendientu\\ElectronicsStore.csproj",
         "projectName": "ElectronicsStore",
-        "projectPath": "D:\\New folder\\ASP.NET\\28092025- doanphuocmien\\website linh kiện điện tử\\1\\ElectronicsStore\\ElectronicsStore.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\ASP.NET\\28092025- doanphuocmien\\website linh kiện điện tử\\1\\ElectronicsStore\\obj\\",
+        "projectPath": "C:\\Users\\pc win 10\\Documents\\GitHub\\dinht060579-linhkiendientu\\ElectronicsStore.csproj",
+        "packagesPath": "C:\\Users\\pc win 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc win 10\\Documents\\GitHub\\dinht060579-linhkiendientu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "BCrypt.Net-Next": {
@@ -96,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
